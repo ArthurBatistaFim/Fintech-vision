@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.header-title {
+    font-size: 1.5rem;
+    color: #ffffff;
+    font-weight: 700;
+    margin: 0;
+}
+
+.notification .badge {
+    font-size: 0.8rem;
+}
+
+.balance {
+    background-color: #cfd8dc;
+    border-radius: 10px;
+}
+
+.balance h2 {
+    font-size: 1.5rem;
+}
+
+.links a {
+    font-size: 1.2rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.links a:hover {
+    text-decoration: none;
+    background-color: #0277bd;
+}
+
+.links i {
+    font-size: 1.5rem;
+    margin-right: 10px;
+}
